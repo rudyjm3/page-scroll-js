@@ -329,6 +329,7 @@ margin-bottom: 1.25rem;
 .title h2 {
 text-align: center;
 text-transform: uppercase;
+padding-top: 35px;
 }
 .title span {
 color: var(--clr-secondary);
